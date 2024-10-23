@@ -1,4 +1,4 @@
-Supply Chain Optimization
+#Supply Chain Optimization
 Problem Statement:
 A company operates in the retail industry and sources products from various suppliers to stock its inventory. The company aims to optimize its supply chain management process to ensure efficient order fulfillment, minimize stockouts, and reduce carrying costs. The database contains information about suppliers, products, orders, and shipments, which can be leveraged to improve supply chain operations.
  Objectives:
